@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Lemmy.zip Legal</title>
+    <link>https://legal.lemmy.zip/docs/</link>
+    <description>Recent content in Docs on Lemmy.zip Legal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Nov 2023 23:22:22 +0000</lastBuildDate>
+    <atom:link href="https://legal.lemmy.zip/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://legal.lemmy.zip/docs/privacy_policy/</link>
+      <pubDate>Fri, 03 Nov 2023 23:22:22 +0000</pubDate>
+      <guid>https://legal.lemmy.zip/docs/privacy_policy/</guid>
+      <description>Lemmy.zip Privacy Policy - Last Updated 4th November 2023&#xA;Introduction linkWelcome to Lemmy.zip (“we,” “our,” or “us”). All user data is held in Germany, therefore we are committed to protecting your privacy and handling your personal data in accordance with the General Data Protection Regulation (GDPR). This Privacy Policy explains how we collect, use, and protect your personal data when you use our social media website.&#xA;Topics:&#xA;Information we collect Legal basis processing Use of personal data How do we store your data?</description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://legal.lemmy.zip/docs/code_of_conduct/</link>
+      <pubDate>Fri, 03 Nov 2023 23:19:53 +0000</pubDate>
+      <guid>https://legal.lemmy.zip/docs/code_of_conduct/</guid>
+      <description>Lemmy.zip Code of Conduct - Last Updated 4th November 2023&#xA;Introduction linkThe Code of Conduct applies to all users of Lemmy.zip, and aims to set out how users (Whether local users or remote users) should interact with eachother in order to create a welcoming and respectful online space. This policy also applies to users who are from other instances who interact with Lemmy.zip communities or users when on Lemmy.zip&amp;rsquo;s server(s). This policy will also be in effect on other Lemmy.</description>
+    </item>
+    <item>
+      <title>Cookie Policy</title>
+      <link>https://legal.lemmy.zip/docs/cookie_policy/</link>
+      <pubDate>Fri, 03 Nov 2023 23:19:53 +0000</pubDate>
+      <guid>https://legal.lemmy.zip/docs/cookie_policy/</guid>
+      <description>Lemmy.zip Cookie Policy - Last Updated 4th November 2023&#xA;Introduction linkThis Cookie Policy (&amp;ldquo;the Cookie Policy&amp;rdquo;) explains what cookies are and how they might be used when you visit lemmy.zip (&amp;ldquo;we,&amp;ldquo;&amp;ldquo;us,&amp;rdquo; &amp;ldquo;our,&amp;rdquo; &amp;ldquo;the website,&amp;rdquo; &amp;ldquo;Lemmy.zip&amp;rdquo;). &amp;ldquo;You&amp;rdquo; means the individual accessing or using the website, or a company, or any legal entity on behalf of which such individual is accessing or using the website, as applicable.&#xA;You should read this policy so you can understand what type of cookies we use, or the information we collect using cookies and how that information is used.</description>
+    </item>
+    <item>
+      <title>Defederation Policy</title>
+      <link>https://legal.lemmy.zip/docs/defederation_policy/</link>
+      <pubDate>Fri, 03 Nov 2023 23:19:53 +0000</pubDate>
+      <guid>https://legal.lemmy.zip/docs/defederation_policy/</guid>
+      <description>Lemmy.zip Defederation Policy - Last Updated 4th November 2023&#xA;Administration and Defederation Policy for Lemmy.zip linkThis policy aims to clarify principles for how administration and federation is done on Lemmy.zip. It is intended to be an overview of general guidelines, not a formal set of rules.&#xA;Instance rules linkThis instance has a set of rules which are available in our Code of Conduct and Terms of Service. All users of this instance are expected to follow these rules in all of their activities, including:</description>
+    </item>
+    <item>
+      <title>Terms of Service</title>
+      <link>https://legal.lemmy.zip/docs/terms_of_service/</link>
+      <pubDate>Fri, 03 Nov 2023 23:19:53 +0000</pubDate>
+      <guid>https://legal.lemmy.zip/docs/terms_of_service/</guid>
+      <description>Lemmy.zip Terms of Service - Last Updated 4th November 2023&#xA;Introduction link 1.0: This Terms of Service applies to your use of Lemmy.zip (&amp;ldquo;we,&amp;ldquo;&amp;ldquo;us,&amp;rdquo; &amp;ldquo;our,&amp;rdquo; &amp;ldquo;the website,&amp;rdquo; &amp;ldquo;Lemmy.zip,&amp;rdquo;). ​ 1.0.0: Lemmy.zip requires some basic rules in order to ensure the site functions in a way that promotes fairness and equality. 1.0.1: Read our Terms of Service carefully before using this website, as these Terms of Service govern your use of Lemmy.</description>
+    </item>
+  </channel>
+</rss>
